@@ -1,0 +1,15 @@
+# Ignore MATLAB auto-generated files
+*.mat
+*.asv
+*.m~
+
+# Ignore compiled binaries and executables
+*.mex*
+
+# Ignore MATLAB project-specific files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
